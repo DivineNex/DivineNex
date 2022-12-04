@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DivineNex
-- 👀 I’m interested in programming, music, sports
+- 👀 I’m interested in programming, sports
 - 🌱 I’m currently learning C# and .NET platform
 - 📫 How to reach me: nexterrible@mail.ru
 
